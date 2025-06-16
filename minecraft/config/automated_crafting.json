@@ -1,0 +1,8 @@
+{
+  "simple_mode": true,
+  "quasi_connective": false,
+  "redirect_redstone": false,
+  "craft_continuously": false,
+  "comparator_reads_output": false,
+  "fetch_translation_updates": true
+}
