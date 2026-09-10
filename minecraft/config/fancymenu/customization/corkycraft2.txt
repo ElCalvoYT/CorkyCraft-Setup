@@ -39,7 +39,7 @@ layout_action_executable_blocks {
 
 element {
   button_element_executable_block_identifier = 44742eed-017d-42b8-810d-fc9ba64db554-1750022627168
-  [executable_action_instance:be571476-83f0-4da1-a84f-746a64d0d9a9-1750022701458][action_type:joinserver] = corkycraft2.elcalvoyt.com
+  [executable_action_instance:be571476-83f0-4da1-a84f-746a64d0d9a9-1750022701458][action_type:joinserver] = 193.135.10.26:15458
   [executable_block:44742eed-017d-42b8-810d-fc9ba64db554-1750022627168][type:generic] = [executables:be571476-83f0-4da1-a84f-746a64d0d9a9-1750022701458;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false

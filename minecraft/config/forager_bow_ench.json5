@@ -1,0 +1,12 @@
+{
+	// If true, Forager I will teleport XP. If false, teleport Items instead.
+	"doExperienceAsLevelOne": true,
+	// If true, Forager will be possible to get from Enchanting Tables. If false, it will not.
+	"isForagerAvailableForRandomSelection": false,
+	// If true, Forager will be possible to get from Enchanted Book Offers. If false, it will not.
+	"isForagerAvailableForEnchantedBookOffer": false,
+	// If true, Forager will be possible to get from End City Chests. If false, it will not.
+	"isForagerAvailableInEndCities": true,
+	// If true, the mod will print important debug events to the MC Log.
+	"enableLifecycleDebugLogging": false
+}

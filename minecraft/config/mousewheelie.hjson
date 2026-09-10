@@ -1,6 +1,9 @@
 {
 	// General settings
 	general: {
+		// Enables quick swapping of armor pieces and elytra pieces by clicking them while in hand.
+		// default: true
+		enable-quick-armor-swapping: true
 		// Sets the interval in milliseconds in which interactions are sent to the server.
 		// Lower numbers increase the speed but might be rejected by servers.
 		// default: 10
@@ -10,9 +13,6 @@
 		// default: 1
 		// 	Must be greater or equal to 1
 		integrated-interaction-rate: 1
-		// Enables quick swapping of armor pieces and elytra pieces by clicking them while in hand.
-		// default: true
-		enable-quick-armor-swapping: true
 		// Enables dropping items when holding the drop modifier (alt by default) and clicking on them.
 		// The modifier can be changed in the vanilla controls menu.
 		// default: true
