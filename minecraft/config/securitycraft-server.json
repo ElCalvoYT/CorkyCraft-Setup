@@ -1,0 +1,15 @@
+{
+  "laserBlockRange": 10,
+  "laser_damage": 10.0,
+  "incorrectPasscodeDamage": 4,
+  "shouldSpawnFire": true,
+  "smallerMineExplosion": false,
+  "mineExplodesWhenInCreative": true,
+  "mineExplosionsBreakBlocks": true,
+  "enable_team_ownership": true,
+  "allow_breaking_non_owned_blocks": false,
+  "always_drop": true,
+  "owned_breaking_slowdown": 1.0,
+  "non_owned_breaking_slowdown": 1.0,
+  "allow_block_claim": true
+}
